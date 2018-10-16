@@ -869,11 +869,11 @@ var monstrousmanual = [
 	},
 
 	{
-		name: "",
-		freq: "",
-		alig: "",
-		desc: "",
-		image: "",
+		name: "Elemental, Earth",
+		freq: "Very rare",
+		alig: "Neutral",
+		desc: "Earth elementals can be conjured in any area of earth or stone. This type of common elemental appears on the Prime Material plane as a very large humanoid made of whatever types of dirt, stones, precious metals, and gems it was conjured from. It has a cold, expressionless face, and its two eyes sparkle like brilliant, multifaceted gems. Though it has a mouth-like opening in its face, an earth elemental will rarely speak. Their voices can be heard in the silence of deep tunnels, the rumblings of earthquakes, and the grinding of stone on stone.\nThough earth elementals travel very slowly, they are relentless in the fulfillment of their appointed tasks. An earth elemental can travel through solid ground or stone with no penalty to movement or dexterity. However, these elementals cannot travel through water: they must either go around the body of water in their path or go under it, traveling in the ground. Earth elementals prefer the latter as it keeps them moving, more or less, in a straight line toward their goal.",
+		image: "http://www.lomion.de/cmm/img/element1.gif",
 	},
 
 	{
