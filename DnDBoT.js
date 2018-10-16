@@ -837,11 +837,13 @@ var monstrousmanual = [
 	},
 
 	{
-		name: "",
-		freq: "",
-		alig: "",
-		desc: "",
-		image: "",
+		name: "Eyewing",
+		freq: "Rare",
+		alig: "Lawful evil",
+		desc: "Eyewings are loathsome inhabitants of the Abyss. They are obedient, loyal, and dumb – perfect servitors for the dark gods and their more powerful minions.
+
+An eyewing’s body is a fat, egg-shaped ball covered with matted black fur. The 5-foot-wide body is supported by a pair of five-foot-long leathery bat wings. Each wing is tipped with a set of three razor-sharp talons. An 8-foot-long rat’s tail dangles from the back of the body. The tail ends in a small, sharp spur. It has no feet and has never been known to land. The body is dominated by the single, bulging, 4-foot-wide eyeball. The eyeball is black with a blood-red pupil. A vile blue fluid continuously leaks from the eye, soiling its fur. Great leathery eyelids squeeze this fluid out and away from the creature. The stench is unbelievable. It gives off an acidic smell that scorches the sensitive tissues in other creatures’ noses and mouths.",
+		image: "http://www.lomion.de/cmm/img/eyewing.gif",
 	},
 
 	/*
