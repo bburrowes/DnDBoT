@@ -829,11 +829,11 @@ var monstrousmanual = [
 	},
 
 	{
-		name: "",
-		freq: "",
-		alig: "",
-		desc: "",
-		image: "",
+		name: "Ettercap",
+		freq: "Rare",
+		alig: "Neutral evil",
+		desc: "Ettercaps are ugly bipedal creatures that get along very well with all types of giant spiders. These creatures of low intelligence are exceedingly cruel, very cunning, and are skilled in setting traps – very deadly traps – much like the spiders that often live around them. Ettercaps stand around six feet tall, even with their stooping gait and hunched shoulders. The creatures have short, spindly legs, long arms that reach nearly to their ankles, and large pot-bellies. The hands of ettercaps have a thumb and three long fingers that end in razor sharp claws. Their bodies are covered by tufts of thick, wiry, black hair, and their skin is dark and thick. Ettercaps’ heads are almost equine in shape, but they have large reptilian eyes, usually blood-red in color, and large fangs, one protruding downward from each side of the mouth. The mouth itself is large and lined with very sharp teeth. Ettercaps do not have a formal language. They express themselves through a combination of high-pitched chittering noises, shrieks, and violent actions.",
+		image: "http://www.lomion.de/cmm/img/ettercap.gif",
 	},
 
 	{
