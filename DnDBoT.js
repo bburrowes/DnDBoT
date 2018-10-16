@@ -861,11 +861,11 @@ var monstrousmanual = [
 	},
 
 	{
-		name: "",
-		freq: "",
-		alig: "",
-		desc: "",
-		image: "",
+		name: "Elemental, Air",
+		freq: "Very rare",
+		alig: "Neutral",
+		desc: "Air elementals can be conjured in any area of open air where gusts of wind are present. The common air elemental appears as an amorphous, shifting cloud when it answers its summons to the Prime Material plane. They rarely speak, but their language can be heard in the high-pitched shriek of a tornado or the low moan of a midnight storm.",
+		image: "http://www.lomion.de/cmm/img/element1.gif",
 	},
 
 	{
