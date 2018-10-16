@@ -813,11 +813,11 @@ var monstrousmanual = [
 	},
 
 	{
-		name: "",
-		freq: "",
-		alig: "",
-		desc: "",
-		image: "",
+		name: "Elephant",
+		freq: "Common",
+		alig: "Neutral",
+		desc: "Elephants have thick, baggy hides, covered with sparse and very coarse tufts of gray hair. The elephant’s most renowned feature is its trunk, which it uses as a grasping limb.",
+		image: "http://www.lomion.de/cmm/img/elephant.gif",
 	},
 
 	{
