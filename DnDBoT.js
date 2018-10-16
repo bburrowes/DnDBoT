@@ -813,35 +813,37 @@ var monstrousmanual = [
 	},
 
 	{
-		name: "",
-		freq: "",
-		alig: "",
-		desc: "",
-		image: "",
+		name: "Elephant",
+		freq: "Common",
+		alig: "Neutral",
+		desc: "Elephants have thick, baggy hides, covered with sparse and very coarse tufts of gray hair. The elephant’s most renowned feature is its trunk, which it uses as a grasping limb.",
+		image: "http://www.lomion.de/cmm/img/elephant.gif",
 	},
 
 	{
-		name: "",
-		freq: "",
-		alig: "",
-		desc: "",
-		image: "",
+		name: "Elf",
+		freq: "Uncommon",
+		alig: "Chaotic good",
+		desc: "Though their lives span several human generations, elves appear at first glance to be frail when compared to man. However, elves have a number of special talents that more than make up for their slightly weaker constitutions. High elves, the most common type of elf, are somewhat shorter than men, never growing much over than 5 feet tall. Male elves usually weigh between 90 and 120 pounds, and females weigh between 70 and 100 pounds. Most high elves are dark-haired, and their eyes are a beautiful, deep shade of green. They posses infravision up to 60 feet. The features of an elf are delicate and finely chiseled. Elves have very pale complexions, which is odd because they spend a great deal of time outdoors. They tend to be slim, almost fragile. Their pale complexion and slight builds are the result of a constitution that is weaker than man’s. Elves, therefore, always subtract 1 point from their initial Constitution score. Though they are not as sturdy as humans, elves are much more agile, and always add 1 point to their initial Dexterity scores. Elven clothing tends to be colorful, but not garish. They often wear pastel colors, especially blues and greens. Because they dwell in forests, however, high elves often wear greenish grey cloaks to afford them quick camouflage. Elves have learned that it is very important to understand the creatures, both good and evil, that share their forest home. Because of this, elves may speak the tongues of goblins, orcs, hobgoblins, gnolls, gnomes, and halflings, in addition to common and their own highly-developed language. They will always show an interest in anything that will allow them to communicate with, and learn from, their neighbors.",
+		image: "http://www.lomion.de/cmm/img/elf.gif",
 	},
 
 	{
-		name: "",
-		freq: "",
-		alig: "",
-		desc: "",
-		image: "",
+		name: "Ettercap",
+		freq: "Rare",
+		alig: "Neutral evil",
+		desc: "Ettercaps are ugly bipedal creatures that get along very well with all types of giant spiders. These creatures of low intelligence are exceedingly cruel, very cunning, and are skilled in setting traps – very deadly traps – much like the spiders that often live around them. Ettercaps stand around six feet tall, even with their stooping gait and hunched shoulders. The creatures have short, spindly legs, long arms that reach nearly to their ankles, and large pot-bellies. The hands of ettercaps have a thumb and three long fingers that end in razor sharp claws. Their bodies are covered by tufts of thick, wiry, black hair, and their skin is dark and thick. Ettercaps’ heads are almost equine in shape, but they have large reptilian eyes, usually blood-red in color, and large fangs, one protruding downward from each side of the mouth. The mouth itself is large and lined with very sharp teeth. Ettercaps do not have a formal language. They express themselves through a combination of high-pitched chittering noises, shrieks, and violent actions.",
+		image: "http://www.lomion.de/cmm/img/ettercap.gif",
 	},
 
 	{
-		name: "",
-		freq: "",
-		alig: "",
-		desc: "",
-		image: "",
+		name: "Eyewing",
+		freq: "Rare",
+		alig: "Lawful evil",
+		desc: "Eyewings are loathsome inhabitants of the Abyss. They are obedient, loyal, and dumb – perfect servitors for the dark gods and their more powerful minions.
+
+An eyewing’s body is a fat, egg-shaped ball covered with matted black fur. The 5-foot-wide body is supported by a pair of five-foot-long leathery bat wings. Each wing is tipped with a set of three razor-sharp talons. An 8-foot-long rat’s tail dangles from the back of the body. The tail ends in a small, sharp spur. It has no feet and has never been known to land. The body is dominated by the single, bulging, 4-foot-wide eyeball. The eyeball is black with a blood-red pupil. A vile blue fluid continuously leaks from the eye, soiling its fur. Great leathery eyelids squeeze this fluid out and away from the creature. The stench is unbelievable. It gives off an acidic smell that scorches the sensitive tissues in other creatures’ noses and mouths.",
+		image: "http://www.lomion.de/cmm/img/eyewing.gif",
 	},
 
 	/*
