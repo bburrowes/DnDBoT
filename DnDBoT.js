@@ -52,7 +52,7 @@ client.on("message", (message) => {
 		  				tot += retVal[i];
 		  			}
 		  			message.channel.send("[" + retVal + "]  Total: " + tot);
-	  			}	  			
+	  			}
 	  		} else {
 	  			message.channel.send("I can't roll that! Use the command !roll {# dice}d{# sides}. I can only roll up to 9 dice.");
 	  		}
@@ -87,7 +87,7 @@ client.on("message", (message) => {
 	  			if (creature == y['name']){
 	  				message.channel.send(
 	  					"**Name**: " + y['name'] + "\n" +
-	  					"**Frequency**: " + y['freq'] + "\n" + 
+	  					"**Frequency**: " + y['freq'] + "\n" +
 	  					"**Alignment**: " + y['alig'] + "\n" +
 	  					"**Description**: " + y['desc'] + "\n",
 	  					{files: [y['image']]}
@@ -101,7 +101,7 @@ client.on("message", (message) => {
 	  	}
 
 
-	  	
+
 	  	else {
 	  		message.channel.send("I don't recognize that command! Make sure you typed it correctly or type !help for a list of commands.");
 	  	}
@@ -797,19 +797,19 @@ var monstrousmanual = [
 	},
 
 	{
-		name: "",
-		freq: "",
-		alig: "",
-		desc: "",
-		image: "",
+		name: "Dryad",
+		freq: "Very rare",
+		alig: "Neutral",
+		desc: "Dryads are beautiful, intelligent tree sprites. They are as elusive as they are alluring, however, and dryads are rarely seen unless taken by surprise – or they wish to be spotted. The dryad’s exquisite features, delicate and finely chiseled, are much like an elf maiden’s. Dryads have high cheek bones and amber, violet, or dark green eyes. A dryad’s complexion and hair color changes with the seasons, presenting the sprite with natural camouflage. During the fall, a dryad’s hair turns golden or red, and her skin subtly darkens from its usual light tan to more closely match her hair color. This enables her to blend with the falling leaves of autumn. In winter, both the dryad’s hair and skin are white, like the snows that cover the oak groves. When encountered in a forest during fall or winter, a dryad is often mistaken for an attractive maid, probably of elvish descent. No one would mistake a dryad for an elf maid during the spring and summer, however. At these times of year, a dryad’s skin is lightly tanned and her hair is green like the oak leaves around her. Dryads often appear clothed in a loose, simple garment. The clothing they wear is the color of the oak grove in the season they appear. They speak their own tongue, as well as the languages of elves, pixies, and sprites. Dryads can also speak with plants.",
+		image: "http://www.lomion.de/cmm/img/dryad.gif",
 	},
 
 	{
-		name: "",
-		freq: "",
-		alig: "",
-		desc: "",
-		image: "",
+		name: "Dwarf",
+		freq: "Common",
+		alig: "Lawful good",
+		desc: "Dwarves are a noble race of demihumans who dwell under the earth, forging great cities and waging massive wars against the forces of chaos and evil. Dwarves also have much in common with the rocks and gems they love to work, for they are both hard and unyielding. It’s often been said that it’s easier to make a stone weep than it is to change a dwarf’s mind. Standing from four to 4½ feet in height, and weighing 130 to 170 pounds, dwarves tend to be stocky and muscular. They have ruddy cheeks and bright eyes. Their skin is typically deep tan or light brown. Their hair is usually black, gray, or brown, and worn long, though not long enough to impair vision in any way. They favor long beards and mustaches, too. Dwarves value their beards highly and tend to groom them very carefully. Dwarves do not favor ornate stylings or wrappings for their hair or their beards. Dwarven clothing tends to be simple and functional. They often wear earth tones, and their cloth is considered rough by many other races, especially men and elves. Dwarves usually wear one or more pieces of jewelry, though these items are usually not of any great value or very ostentatious. Though dwarves value gems and precious metals, they consider it in bad taste to flaunt wealth. Because dwarves are a sturdy race, they add 1 to their initial Constitution ability scores. However, because they are a solitary people, tending toward distrust of outsiders and other races, they subtract 1 from their initial Charisma ability scores. Dwarves usually live from 350 to 450 years. Dwarves have found it useful to learn the languages of many of their allies and enemies. In addition to their own languages, dwarves often speak the languages of gnomes, goblins, kobolds, orcs, and the common tongue, which is frequently used in trade negotiations with other races.",
+		image: "http://www.lomion.de/cmm/img/dwarf.gif",
 	},
 
 	{
