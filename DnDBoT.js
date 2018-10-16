@@ -877,15 +877,15 @@ var monstrousmanual = [
 	},
 
 	{
-		name: "",
-		freq: "",
-		alig: "",
-		desc: "",
-		image: "",
+		name: "Elemental, Fire",
+		freq: "Very rare",
+		alig: "Neutral",
+		desc: "Fire elementals can be conjured in any area containing a large open flame. To provide a fire elemental with an adequate shell of Prime Material flame, a fire built to house an elemental should have a diameter of at least six feet and reach a minimum of four feet into the air.\nOn the Prime Material Plane, a fire elemental appears as a tall sheet of flame. The fire elemental will always appear to have two armlike appendages, one on each side of its body. These arms seem to flicker back into the creature’s flaming body, only to spring out from its sides seconds later. The only facial features of a fire elemental are two large glowing patches of brilliant blue fire, which seem to function as eyes for the elemental. Like all common elementals, fire elementals rarely speak on the Prime Material plane, though their voices can be heard in the crackle and hiss of a large fire.",
+		image: "http://www.lomion.de/cmm/img/element2.gif",
 	},
 
 	{
-		name: "",
+		name: "Elemental, Water",
 		freq: "",
 		alig: "",
 		desc: "",
