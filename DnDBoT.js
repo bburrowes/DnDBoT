@@ -821,11 +821,11 @@ var monstrousmanual = [
 	},
 
 	{
-		name: "",
-		freq: "",
-		alig: "",
-		desc: "",
-		image: "",
+		name: "Elf",
+		freq: "Uncommon",
+		alig: "Chaotic good",
+		desc: "Though their lives span several human generations, elves appear at first glance to be frail when compared to man. However, elves have a number of special talents that more than make up for their slightly weaker constitutions. High elves, the most common type of elf, are somewhat shorter than men, never growing much over than 5 feet tall. Male elves usually weigh between 90 and 120 pounds, and females weigh between 70 and 100 pounds. Most high elves are dark-haired, and their eyes are a beautiful, deep shade of green. They posses infravision up to 60 feet. The features of an elf are delicate and finely chiseled. Elves have very pale complexions, which is odd because they spend a great deal of time outdoors. They tend to be slim, almost fragile. Their pale complexion and slight builds are the result of a constitution that is weaker than man’s. Elves, therefore, always subtract 1 point from their initial Constitution score. Though they are not as sturdy as humans, elves are much more agile, and always add 1 point to their initial Dexterity scores. Elven clothing tends to be colorful, but not garish. They often wear pastel colors, especially blues and greens. Because they dwell in forests, however, high elves often wear greenish grey cloaks to afford them quick camouflage. Elves have learned that it is very important to understand the creatures, both good and evil, that share their forest home. Because of this, elves may speak the tongues of goblins, orcs, hobgoblins, gnolls, gnomes, and halflings, in addition to common and their own highly-developed language. They will always show an interest in anything that will allow them to communicate with, and learn from, their neighbors.",
+		image: "http://www.lomion.de/cmm/img/elf.gif",
 	},
 
 	{
