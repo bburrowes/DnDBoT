@@ -829,6 +829,23 @@ var monstrousmanual = [
 	},
 
 	{
+		name: "Dwarf, Derro",
+		freq: "Very rare",
+		alig: "Chaotic evil",
+		desc: "Derro are a degenerate race of dwarven stature. They have dwelled in the Underdark for ages, but they were discovered by the mind flayers only five centuries ago, and by the drow but shortly before that. The derro have made a name for themselves by their marked cruelty. It is said that a derro lives for two things: the slow and humiliating death of surface demihumans and especially humans, and the perversion of knowledge for their own dark ends.\nDerro are short, with skin the color of an ice-covered lake (white, with bluish undertones), sickly pale yellow or tan hair (always straight), and staring, pupil-less eyes. Their features remind dwarves of humans, and vice versa. Derro have rough skin, spotted with short coarse tufts of hair. Most derro wear a loose costume woven from the hair of underground creatures and dyed in deep reds and browns. Even in full armor, exploring new territory or patrolling their own, derro are easily recognizable. Their armor is leather, studded in copper and brass. Leaders, though, wear tougher leather armors, made from the hides of creatures far tougher than cattle. Derro prefer weapons designed to cripple opponents, rather than those built for a quick kill: derro don’t see any sport in spears and axes.",
+		image: "http://www.lomion.de/cmm/img/dwarf.gif",
+	},
+
+	{
+		name: "Dwarf, Duergar",
+		freq: "Very rare",
+		alig: "Lawful evil (neutral)",
+		desc: "The duergar, or gray dwarves, are a malevolent breed that dwells in the extreme depths of the ground. Duergar may be fighters, priests, or thieves. Multi-classed duergar may be fighter/priests, fighter/thieves, or priest/thieves. Thief duergar are proficient in the use of poison.\nDuergar appear to be emaciated, nasty-looking dwarves. Their complexion and hair range from medium to dark gray. They prefer drab clothing designed to blend into their environment. In their lair, they may wear jewelry, although such pieces are kept dull.\nDuergar have infravision with a range of 120 feet. They speak the duergar dialect of the dwarves tongue, “undercommon” (the trading language of subterranean cultures), and the silent speech employed by same subterranean creatures. Intelligent duergar may speak other languages as well.",
+		image: "http://www.lomion.de/cmm/img/dwarf.gif",
+	},
+
+
+	{
 		name: "Elephant",
 		freq: "Common",
 		alig: "Neutral",
