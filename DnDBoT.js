@@ -844,6 +844,53 @@ var monstrousmanual = [
 		image: "http://www.lomion.de/cmm/img/dwarf.gif",
 	},
 
+	{
+		name: "Elemental",
+		freq: "-",
+		alig: "-",
+		desc: "Elementals are sentient beings that can possess bodies made of one of the four basic elements that make up the Prime Material plane – air, earth, fire, or water. They normally reside on an elemental Inner Plane and will only be encountered on the Prime Material plane if they are summoned by magical means. (See the Manual of the Planes for more information on the nature of the various elemental planes.) Each elemental must adopt a shell in the Prime Material composed of the basic element it represents. and once this shell is destroyed, the elemental will return to its native plane. While there are many more powerful and more intelligent residents of the elemental planes, the common elemental is the easiest to contact, and therefore the most frequently summoned.\nTheir magical nature gives elementals great protection from attacks on the Prime Material plane. Elementals are not harmed by any nonmagical weapons or magical weapons of less than +2 bonus. Creatures with under four Hit Dice and without any magical abilities cannot harm an elemental either. (Magical abilities include such characteristics as breath weapons, poisons, paralysis, or even being immune to normal weapon attacks.) Orcs, for example, are powerless against a conjured elemental unless one happens to possess a weapon with +2 or better bonus to hit.",
+		image: "http://www.lomion.de/cmm/img/elementa.gif",
+	},
+
+	{
+		name: "Elemental, General Information",
+		freq: "-",
+		alig: "-",
+		desc: "Elementals are sentient beings that can possess bodies made of one of the four basic elements that make up the Prime Material plane – air, earth, fire, or water. They normally reside on an elemental Inner Plane and will only be encountered on the Prime Material plane if they are summoned by magical means. (See the Manual of the Planes for more information on the nature of the various elemental planes.) Each elemental must adopt a shell in the Prime Material composed of the basic element it represents. and once this shell is destroyed, the elemental will return to its native plane. While there are many more powerful and more intelligent residents of the elemental planes, the common elemental is the easiest to contact, and therefore the most frequently summoned.\nTheir magical nature gives elementals great protection from attacks on the Prime Material plane. Elementals are not harmed by any nonmagical weapons or magical weapons of less than +2 bonus. Creatures with under four Hit Dice and without any magical abilities cannot harm an elemental either. (Magical abilities include such characteristics as breath weapons, poisons, paralysis, or even being immune to normal weapon attacks.) Orcs, for example, are powerless against a conjured elemental unless one happens to possess a weapon with +2 or better bonus to hit.",
+		image: "http://www.lomion.de/cmm/img/elementa.gif",
+	},
+
+	{
+		name: "",
+		freq: "",
+		alig: "",
+		desc: "",
+		image: "",
+	},
+
+	{
+		name: "",
+		freq: "",
+		alig: "",
+		desc: "",
+		image: "",
+	},
+
+	{
+		name: "",
+		freq: "",
+		alig: "",
+		desc: "",
+		image: "",
+	},
+
+	{
+		name: "",
+		freq: "",
+		alig: "",
+		desc: "",
+		image: "",
+	},
 
 	{
 		name: "Elephant",
