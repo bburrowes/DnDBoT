@@ -808,7 +808,23 @@ var monstrousmanual = [
 		name: "Dwarf",
 		freq: "Common",
 		alig: "Lawful good",
-		desc: "Dwarves are a noble race of demihumans who dwell under the earth, forging great cities and waging massive wars against the forces of chaos and evil. Dwarves also have much in common with the rocks and gems they love to work, for they are both hard and unyielding. It’s often been said that it’s easier to make a stone weep than it is to change a dwarf’s mind. Standing from four to 4½ feet in height, and weighing 130 to 170 pounds, dwarves tend to be stocky and muscular. They have ruddy cheeks and bright eyes. Their skin is typically deep tan or light brown. Their hair is usually black, gray, or brown, and worn long, though not long enough to impair vision in any way. They favor long beards and mustaches, too. Dwarves value their beards highly and tend to groom them very carefully. Dwarves do not favor ornate stylings or wrappings for their hair or their beards. Dwarven clothing tends to be simple and functional. They often wear earth tones, and their cloth is considered rough by many other races, especially men and elves. Dwarves usually wear one or more pieces of jewelry, though these items are usually not of any great value or very ostentatious. Though dwarves value gems and precious metals, they consider it in bad taste to flaunt wealth. Because dwarves are a sturdy race, they add 1 to their initial Constitution ability scores. However, because they are a solitary people, tending toward distrust of outsiders and other races, they subtract 1 from their initial Charisma ability scores. Dwarves usually live from 350 to 450 years. Dwarves have found it useful to learn the languages of many of their allies and enemies. In addition to their own languages, dwarves often speak the languages of gnomes, goblins, kobolds, orcs, and the common tongue, which is frequently used in trade negotiations with other races.",
+		desc: "Dwarves are a noble race of demihumans who dwell under the earth, forging great cities and waging massive wars against the forces of chaos and evil. Dwarves also have much in common with the rocks and gems they love to work, for they are both hard and unyielding. It’s often been said that it’s easier to make a stone weep than it is to change a dwarf’s mind.\nDwarven clothing tends to be simple and functional. They often wear earth tones, and their cloth is considered rough by many other races, especially men and elves. Dwarves usually wear one or more pieces of jewelry, though these items are usually not of any great value or very ostentatious. Though dwarves value gems and precious metals, they consider it in bad taste to flaunt wealth.",
+		image: "http://www.lomion.de/cmm/img/dwarf.gif",
+	},
+
+	{
+		name: "Dwarf, Hill",
+		freq: "Common",
+		alig: "Lawful good",
+		desc: "Dwarves are a noble race of demihumans who dwell under the earth, forging great cities and waging massive wars against the forces of chaos and evil. Dwarves also have much in common with the rocks and gems they love to work, for they are both hard and unyielding. It’s often been said that it’s easier to make a stone weep than it is to change a dwarf’s mind.\nDwarven clothing tends to be simple and functional. They often wear earth tones, and their cloth is considered rough by many other races, especially men and elves. Dwarves usually wear one or more pieces of jewelry, though these items are usually not of any great value or very ostentatious. Though dwarves value gems and precious metals, they consider it in bad taste to flaunt wealth.",
+		image: "http://www.lomion.de/cmm/img/dwarf.gif",
+	},
+
+	{
+		name: "Dwarf, Mountain",
+		freq: "Common",
+		alig: "Lawful good",
+		desc: "Similar in most ways to their cousins, the hill dwarves, these demihumans prefer to live deep inside mountains. They tend to be slightly taller than hill dwarves (averaging 4½ feet tall) and more hearty (having 1+1 Hit Dice). They usually have slightly lighter skin and hair than their hill-dwelling relatives. In battle, mountain dwarf armies are likely to have more spears (30% maximum) and fewer crossbows (20% maximum) than hill dwarf armies. Mountain dwarves have the same interests and biases as hill dwarves, though they are even more isolationist than their cousins and sometimes consider even hill dwarves to be outsiders. Mountain dwarves live for at least 400 years.",
 		image: "http://www.lomion.de/cmm/img/dwarf.gif",
 	},
 
@@ -840,9 +856,7 @@ var monstrousmanual = [
 		name: "Eyewing",
 		freq: "Rare",
 		alig: "Lawful evil",
-		desc: "Eyewings are loathsome inhabitants of the Abyss. They are obedient, loyal, and dumb – perfect servitors for the dark gods and their more powerful minions.
-
-An eyewing’s body is a fat, egg-shaped ball covered with matted black fur. The 5-foot-wide body is supported by a pair of five-foot-long leathery bat wings. Each wing is tipped with a set of three razor-sharp talons. An 8-foot-long rat’s tail dangles from the back of the body. The tail ends in a small, sharp spur. It has no feet and has never been known to land. The body is dominated by the single, bulging, 4-foot-wide eyeball. The eyeball is black with a blood-red pupil. A vile blue fluid continuously leaks from the eye, soiling its fur. Great leathery eyelids squeeze this fluid out and away from the creature. The stench is unbelievable. It gives off an acidic smell that scorches the sensitive tissues in other creatures’ noses and mouths.",
+		desc: "Eyewings are loathsome inhabitants of the Abyss. They are obedient, loyal, and dumb – perfect servitors for the dark gods and their more powerful minions.\nAn eyewing’s body is a fat, egg-shaped ball covered with matted black fur. The 5-foot-wide body is supported by a pair of five-foot-long leathery bat wings. Each wing is tipped with a set of three razor-sharp talons. An 8-foot-long rat’s tail dangles from the back of the body. The tail ends in a small, sharp spur. It has no feet and has never been known to land. The body is dominated by the single, bulging, 4-foot-wide eyeball. The eyeball is black with a blood-red pupil. A vile blue fluid continuously leaks from the eye, soiling its fur. Great leathery eyelids squeeze this fluid out and away from the creature. The stench is unbelievable. It gives off an acidic smell that scorches the sensitive tissues in other creatures’ noses and mouths.",
 		image: "http://www.lomion.de/cmm/img/eyewing.gif",
 	},
 
